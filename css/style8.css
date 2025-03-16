@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDvl9uNqbWeBjH1UrnDBasLoGOYufJcsV1w&s), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYU2YCI_QiAoGeFp44aJBG7DTV7Tlk9KmHg&s);
+    background-size: 60%, 30%;
+    background-position: left top, right bottom;
+    background-repeat: no-repeat; 
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}

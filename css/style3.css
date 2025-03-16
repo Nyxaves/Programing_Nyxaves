@@ -1,0 +1,17 @@
+.rouge-script-regular {
+    font-family: "Rouge Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    font-family: "Rouge Script", cursive;
+    font-style: normal;
+    background-color: #B5D2CB;
+}
+h1{
+    font-weight: 700;
+}
+p{
+    font-weight: 400;
+}
