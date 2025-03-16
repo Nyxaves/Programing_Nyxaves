@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h3{
+    padding: 1ex;
+}
+#T{
+    background-color: tomato;
+}
+#O{
+    background-color:Orange;
+}
+#D{
+    background-color:dodgerblue;
+}
+#M{
+    background-color:mediumseagreen;
+}
+#G{
+    background-color:gray;
+}
+#S{
+    background-color:slateblue;
+}
+#V{
+    background-color:violet;
+}
+#L{
+    background-color:lightgrey
+}
